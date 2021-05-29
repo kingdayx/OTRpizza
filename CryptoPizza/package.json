@@ -1,0 +1,21 @@
+{
+  "name": "cryptopizza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0",
+    "@openzeppelin/contracts-upgradeable": "^3.3.0",
+    "i": "^0.3.6",
+    "npm": "^6.14.10",
+    "truffle-plugin-verify": "^0.5.4"
+  }
+}
