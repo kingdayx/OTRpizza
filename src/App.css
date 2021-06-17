@@ -2,14 +2,14 @@
   box-sizing: border-box;
 }
 
-.party{
+.party {
   display: flex;
 }
 
 body {
-  background-color: #725ba4;
+  background-color: #008000;
   color: #fce8df;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   text-align: center;
   height: 100%;
 }
@@ -192,13 +192,13 @@ input:first-of-type {
   margin-right: 10px;
 }
 
-input[type='number']::-webkit-outer-spin-button,
-input[type='number']::-webkit-inner-spin-button {
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
 
-input[type='number'] {
+input[type="number"] {
   -moz-appearance: textfield;
 }
 
